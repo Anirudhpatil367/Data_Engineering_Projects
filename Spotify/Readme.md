@@ -106,7 +106,7 @@ The following image showcases how the **Spotify Data Pipeline** works:
 - **Transformation**: Raw data is transformed into a clean format.
 - **Analysis**: Insights are extracted using Athena.
 
-![Spotify Data Pipeline Workflow](images/spotify-data-pipeline.png)
+![Spotify Data Pipeline Workflow](Spotify/spotify-data-pipeline.png)
 
 ---
 
