@@ -1,9 +1,5 @@
 ---
-
 # 🌟 Spotify Data Pipeline: Extract, Transform, and Analyze with AWS 🎧
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![Status](https://img.shields.io/badge/status-Active-brightgreen.svg)](https://github.com/yourusername/spotify-data-pipeline)
 
 ## 🚗 Project Overview
 
@@ -17,7 +13,6 @@ The **Spotify Data Pipeline** project provides an automated solution to **extrac
 - **📱 Scalable & Reliable**: Leverage AWS Lambda for automation and scalability without worrying about server management.
 
 This project brings your Spotify data to life with an automated, cloud-native solution for valuable insights and analytics.
-
 ---
 
 ## 🛠️ Architecture & Services Used
