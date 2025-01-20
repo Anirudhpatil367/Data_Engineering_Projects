@@ -5,7 +5,7 @@
 
 The **Spotify Data Pipeline** project provides an automated solution to **extract**, **transform**, and **analyze** Spotify data in a scalable, reliable way using AWS services.
 
-### Key Features:**
+### Key Features:
 - **🎶 Real-time Data Extraction**: Automatically fetch data from the Spotify API (e.g., track details, artist stats, playlist information).
 - **🔄 Data Transformation**: Cleanse and format raw Spotify data to make it analysis-ready.
 - **📊 Seamless Data Analysis**: Perform detailed analysis using AWS Glue and Athena on transformed data stored in S3.
